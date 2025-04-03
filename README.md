@@ -26,6 +26,7 @@ Profissional com experiência em desenvolvimento web. Expertise na criação de 
   <img src="https://img.shields.io/badge/CSS3-(SASS,LESS)-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_System-Consistency-green?style=flat-square" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Code-Best_Practices-yellow?style=flat-square" />
@@ -35,6 +36,8 @@ Profissional com experiência em desenvolvimento web. Expertise na criação de 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-Design_Tool-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_XD-UI/UX-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Acessibilidade_Digital-Inclusive-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Photoshop-Editing_Tool-blue?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 </p>
 
 ### Performance & SEO
@@ -60,4 +63,12 @@ Profissional com experiência em desenvolvimento web. Expertise na criação de 
   <img src="https://img.shields.io/badge/Scrum-Agile_Development-blue?style=flat-square&logo=scrum&logoColor=white" />
   <img src="https://img.shields.io/badge/Kanban-Project_Management-green?style=flat-square&logo=kanban&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-Continuous_Integration_&_Deployment-purple?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### Ferramentas de Gestão
+<p align="left">
+  <img src="https://img.shields.io/badge/JIRA-Project_Management-blue?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-Task_Management-0079BF?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-Team_Communication-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-Development_Platform-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 </p>
