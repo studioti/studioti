@@ -1,4 +1,4 @@
-# THIAGO LIMA DE AGUIAR
+# Thiago Aguiar
 ## Desenvolvedor Front-End
 
 Profissional com experiência em desenvolvimento web. Expertise na criação de interfaces responsivas, intuitivas e performáticas para empresas e projetos. Facilidade no entendimento de soluções técnicas para intermédio entre cliente, produto e equipe.
@@ -28,6 +28,7 @@ Profissional com experiência em desenvolvimento web. Expertise na criação de 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Code-Best_Practices-yellow?style=flat-square" />
 </p>
 
 ### Design & UX
@@ -58,5 +59,5 @@ Profissional com experiência em desenvolvimento web. Expertise na criação de 
 <p align="left">
   <img src="https://img.shields.io/badge/Scrum-Agile_Development-blue?style=flat-square&logo=scrum&logoColor=white" />
   <img src="https://img.shields.io/badge/Kanban-Project_Management-green?style=flat-square&logo=kanban&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Code-Best_Practices-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI/CD-Continuous_Integration_&_Deployment-purple?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
