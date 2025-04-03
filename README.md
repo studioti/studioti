@@ -64,10 +64,6 @@ Profissional com experiência em desenvolvimento web. Expertise na criação de 
   <img src="https://img.shields.io/badge/CI/CD-Continuous_Integration_&_Deployment-purple?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-![Thiago Lima de Aguiar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=studioti&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studioti&layout=compact&theme=radical)
-
-
 ### Ferramentas de Gestão
 <p align="left">
   <img src="https://img.shields.io/badge/JIRA-Project_Management-blue?style=flat-square&logo=jira&logoColor=white" />
@@ -75,3 +71,6 @@ Profissional com experiência em desenvolvimento web. Expertise na criação de 
   <img src="https://img.shields.io/badge/Slack-Team_Communication-4A154B?style=flat-square&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-Development_Platform-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 </p>
+
+![Thiago Lima de Aguiar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=studioti&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studioti&layout=compact&theme=radical)
