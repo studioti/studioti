@@ -1,5 +1,4 @@
-# Thiago Aguiar
-## Desenvolvedor Front-End
+# Desenvolvedor Front-End
 
 Profissional com experiência em desenvolvimento web. Expertise na criação de interfaces responsivas, intuitivas e performáticas para empresas e projetos. Facilidade no entendimento de soluções técnicas para intermédio entre cliente, produto e equipe.
 
