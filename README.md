@@ -1,6 +1,14 @@
 # Desenvolvedor Front-End
 
-Profissional com experiência em desenvolvimento web. Expertise na criação de interfaces responsivas, intuitivas e performáticas para empresas e projetos. Facilidade no entendimento de soluções técnicas para intermédio entre cliente, produto e equipe.
+Desenvolvedor Front-End com experiência em Vue.js, Nuxt.js, React.js e Next.js, utilizando JavaScript e TypeScript na construção de interfaces modernas e escaláveis.
+ 
+Atuação com pré-processadores CSS, arquitetura Utility-First, UI Kits e Design Systems, com foco em performance e experiência do usuário (UX/UI). Familiaridade com ferramentas de IA generativa aplicadas a UX/UI.
+ 
+Experiência em versionamento com Git (Git Flow e Conventional Commits), práticas de Clean Code, CI/CD e integração/consumo de APIs.
+
+Soft Skills 
+Boa comunicação e colaboração entre equipes de UX/UI e Back-End, com vivência em metodologias ágeis. Perfil proativo, organizado e com forte capacidade de trabalho em equipe.
+
 
 ## Contatos
 <p align="left">
