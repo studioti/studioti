@@ -80,6 +80,6 @@ Boa comunicação e colaboração entre equipes de UX/UI e Back-End, com vivênc
   <img src="https://img.shields.io/badge/Azure_DevOps-Development_Platform-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=studioti&show_icons=true&theme=radical&cache_seconds=1800)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=studioti&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studioti&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=studioti&layout=compact&theme=radical)
